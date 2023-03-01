@@ -14,11 +14,23 @@
 
 #about {
     background-color: white;
-    border: 3px solid brown;
+    border-top: 7px solid red;
+    border-bottom: 7px solid green;
+    text-align: center;
+    position: fixed;
+    width: 600px;
+    top: 50px;
+    right: -230px;
+    transform: rotate(45deg);
+    font-size: 10px;
+}
+
+/*background-color: white;
+    border-top: 3px solid brown;
     text-align: center;
     position: fixed;
     width: 600 px;
     top: 100px;
     right: -30px;
     transform: rotate(45deg);
-}
+    font-size: 10px;
