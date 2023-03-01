@@ -15,7 +15,7 @@
 #about {
     background-color: white;
     border-top: 7px solid red;
-    border-bottom: 7px solid green;
+    border-bottom: 7px solid red;
     text-align: center;
     position: fixed;
     width: 600px;
@@ -25,12 +25,3 @@
     font-size: 10px;
 }
 
-/*background-color: white;
-    border-top: 3px solid brown;
-    text-align: center;
-    position: fixed;
-    width: 600 px;
-    top: 100px;
-    right: -30px;
-    transform: rotate(45deg);
-    font-size: 10px;
